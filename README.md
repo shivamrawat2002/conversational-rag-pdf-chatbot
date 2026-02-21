@@ -49,7 +49,7 @@ Built entirely on **free APIs** — no OpenAI subscription needed.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/conversational-rag-pdf-chatbot.git
+git clone https://github.com/shivamrawat2002/conversational-rag-pdf-chatbot
 cd conversational-rag-pdf-chatbot
 ```
 
