@@ -164,4 +164,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-> Built with ❤️ using Streamlit, LangChain, Groq, and ChromaDB
+
