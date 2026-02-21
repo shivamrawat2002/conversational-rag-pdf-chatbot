@@ -1,0 +1,11 @@
+ipykernel
+langchain
+python-dotenv
+langchain_groq
+langchain_community
+langchain_chroma
+bs4
+langchain_huggingface
+streamlit
+pypdf
+watchdog
